@@ -1,0 +1,26 @@
+@import url('https://fonts.cdnfonts.com/css/neue-haas-grotesk-display-pro');
+
+
+// fonts
+$font-family-sans-serif: 'Neue Haas Grotesk Display Pro', sans-serif;
+$presentation-font-size-root: 27px;
+
+// headings
+$presentation-heading-font: $font-family-sans-serif;
+$presentation-heading-font-weight: 900;
+
+/*-- scss:rules --*/
+body { 
+  font-family: $font-family-sans-serif; 
+  font-size: $presentation-font-size-root;
+}
+
+
+h1, h2 {
+  font-family: $presentation-heading-font;
+  font-weight: $presentation-heading-font-weight;
+}
+
+h3 {
+  font-weight: 700;
+}

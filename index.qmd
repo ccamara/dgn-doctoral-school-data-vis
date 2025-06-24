@@ -19,6 +19,7 @@ format:
     theme: [default, UoW_theme/uow_brand.scss, UoW_theme/uow_brand-fonts.scss]
     logo: UoW_theme/uow-wordmark.svg
     #logo: assets/digital-good-network-logo.png
+    footer: https://ccamara.github.io/dgn-doctoral-school-data-vis/
     transition: slide
     background-transition: fade
     embed-resources: true
@@ -498,7 +499,9 @@ ggplot(datasaurus, aes(x = x, y = y, color = category)) +
 
 This famous dataset is called [`datasaurus dozen`](https://en.wikipedia.org/wiki/Datasaurus_dozen) and was constructed in 2016 by [Alberto Cairo](https://en.wikipedia.org/wiki/Alberto_Cairo) for illustrative purposes (see @matejka2017)
 
-##  {background-image="https://datalab.carloscamara.es/posts/2023-03-02_matrix-effect/img/datasaurus_matrix.png" background-size="contain" background-color="#000" data-menu-title="You fund a dinosaur!"}
+##  {.center background-color="#000" data-menu-title="You found a dinosaur!"}
+
+![You found a dinosaur! (I promised!)](assets/datasaurus_matrix.png)
 
 ## Correlations
 

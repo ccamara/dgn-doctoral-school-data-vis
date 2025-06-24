@@ -827,9 +827,9 @@ You're now equipped with the basics to get started this amazing path! (if you wa
 ::: {.column width="40%"}
 **Data**
 
--   Our World in Data: <https://ourworldindata.org/data>
+-   Our World in Data: <https://ourworldindata.org/data> (Poverty and development, Food, Energy, Health, Human Rights...at country level)
 
--   London Data Store: <https://data.london.gov.uk/dataset/> (you can use this [exploration tool](https://data.london.gov.uk/london-area-profiles/) or this pre-cooked [`.csv` file](https://github.com/ccamara/dgn-doctoral-school-data-vis/blob/main/data/london-borough-profilesV3.csv))
+-   London Data Store: <https://data.london.gov.uk/dataset/> (you can use this [exploration tool](https://data.london.gov.uk/london-area-profiles/) or [this pre-cooked `.csv` file](https://github.com/ccamara/dgn-doctoral-school-data-vis/blob/main/data/london-borough-profilesV3.csv))
 
 -   Your own data!
 
@@ -839,7 +839,7 @@ You're now equipped with the basics to get started this amazing path! (if you wa
 
 -   DataWrapper: <https://www.datawrapper.de/>
 
--   PLotly 's Chart Studio: <https://chart-studio.plotly.com/>
+-   Plotly 's Chart Studio: <https://chart-studio.plotly.com/>
 
 -   Your preferred software!
 :::

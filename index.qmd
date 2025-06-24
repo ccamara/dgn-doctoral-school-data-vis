@@ -829,7 +829,7 @@ You're now equipped with the basics to get started this amazing path! (if you wa
 
 -   Our World in Data: <https://ourworldindata.org/data>
 
--   London Data Store: <https://data.london.gov.uk/dataset/> (you can use this [exploration tool](https://data.london.gov.uk/london-area-profiles/))
+-   London Data Store: <https://data.london.gov.uk/dataset/> (you can use this [exploration tool](https://data.london.gov.uk/london-area-profiles/) or this pre-cooked [`.csv` file](https://github.com/ccamara/dgn-doctoral-school-data-vis/blob/main/data/london-borough-profilesV3.csv))
 
 -   Your own data!
 

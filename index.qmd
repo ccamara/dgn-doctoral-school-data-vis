@@ -503,6 +503,20 @@ This famous dataset is called [`datasaurus dozen`](https://en.wikipedia.org/wiki
 
 ![You found a dinosaur! (I promised!)](assets/datasaurus_matrix.png)
 
+---
+
+```{r}
+#| echo: true
+
+datasaurus |> 
+  mutate(opacity = case_when(
+    category == 13 ~ 1,
+    .default = 0.6
+  )) |> 
+ggplot(aes(x = x, y = y, color = category, alpha = opacity)) +
+  geom_point()
+```
+
 ## Correlations
 
 ![Pairwise correlations between 4 variables. Source: @turkay2023, chap 15](assets/correlations.png)
